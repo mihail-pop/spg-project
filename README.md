@@ -1,6 +1,6 @@
 ## Overview
 
-This project is a simple 3D city scene rendered using OpenGL. It features randomly positioned buildings and trees with textured surfaces, as well as a camera system for navigation. The scene also includes physics-based balls that interact with objects in the environment.
+This project is a simple 3D city scene rendered using OpenGL, made as part of the **Sisteme de Prelucrare Grafică** (Graphic Processing Systems) course. It features randomly positioned buildings and trees with textured surfaces, as well as a camera system for navigation. The scene also includes physics-based balls that interact with objects in the environment.
 
 ## Technologies used 
 - OpenGL (GLFW, GLAD)
